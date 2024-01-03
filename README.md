@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe Project that is apart of the Odin Project Online Course
+    Website for healthy recipes that I am currently making (as of 01/2024)
